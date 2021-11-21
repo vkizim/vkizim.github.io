@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbf620c9.chunk.css",
-    "main.js": "/static/js/main.4ed271ab.chunk.js",
-    "main.js.map": "/static/js/main.4ed271ab.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.07b1c840.js",
-    "runtime-main.js.map": "/static/js/runtime-main.07b1c840.js.map",
+    "main.css": "/static/css/main.f3b44dc5.chunk.css",
+    "main.js": "/static/js/main.1b434513.chunk.js",
+    "main.js.map": "/static/js/main.1b434513.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.732ba4ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.732ba4ca.js.map",
     "static/js/2.8a6c5863.chunk.js": "/static/js/2.8a6c5863.chunk.js",
     "static/js/2.8a6c5863.chunk.js.map": "/static/js/2.8a6c5863.chunk.js.map",
-    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/css/3.21ea103e.chunk.css": "/static/css/3.21ea103e.chunk.css",
     "static/js/3.253a448f.chunk.js": "/static/js/3.253a448f.chunk.js",
     "static/js/3.253a448f.chunk.js.map": "/static/js/3.253a448f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0e1dc9dea47c295238b341216d43ce50.js": "/precache-manifest.0e1dc9dea47c295238b341216d43ce50.js",
+    "precache-manifest.9c5b0f05d8aad905ac05ee9a9edfe1a3.js": "/precache-manifest.9c5b0f05d8aad905ac05ee9a9edfe1a3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
-    "static/css/main.fbf620c9.chunk.css.map": "/static/css/main.fbf620c9.chunk.css.map",
+    "static/css/3.21ea103e.chunk.css.map": "/static/css/3.21ea103e.chunk.css.map",
+    "static/css/main.f3b44dc5.chunk.css.map": "/static/css/main.f3b44dc5.chunk.css.map",
     "static/js/2.8a6c5863.chunk.js.LICENSE.txt": "/static/js/2.8a6c5863.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
@@ -32,9 +32,9 @@
     "static/media/ubi.jfif": "/static/media/ubi.b546572e.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.07b1c840.js",
+    "static/js/runtime-main.732ba4ca.js",
     "static/js/2.8a6c5863.chunk.js",
-    "static/css/main.fbf620c9.chunk.css",
-    "static/js/main.4ed271ab.chunk.js"
+    "static/css/main.f3b44dc5.chunk.css",
+    "static/js/main.1b434513.chunk.js"
   ]
 }
