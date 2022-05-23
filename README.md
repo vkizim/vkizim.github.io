@@ -1,2 +1,2 @@
-# It's my portfolio site: https://kizim.pp.ua/
+# It's my portfolio site.
 #
